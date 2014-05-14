@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1250335488 source:/home/haobo/studysrc/project1/io.cpp
+	<iostream>
+	<iomanip>
+	"io.h"
+
+1250335492 /home/haobo/studysrc/project1/io.h
+	<string>
+
